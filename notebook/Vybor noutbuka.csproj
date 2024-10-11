@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1544B82A-B5BB-4F27-8A6D-580EC618FCB7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Vybor_noutbuka</RootNamespace>
+    <AssemblyName>Vybor noutbuka</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>computer_laptop.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Acer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acer.Designer.cs">
+      <DependentUpon>Acer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin2.Designer.cs">
+      <DependentUpon>admin2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Apple.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apple.Designer.cs">
+      <DependentUpon>Apple.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Asus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Asus.Designer.cs">
+      <DependentUpon>Asus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bluetooth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bluetooth.Designer.cs">
+      <DependentUpon>Bluetooth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Component1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Component1.Designer.cs">
+      <DependentUpon>Component1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Edit_ntbk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit_ntbk.Designer.cs">
+      <DependentUpon>Edit_ntbk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form10.Designer.cs">
+      <DependentUpon>Form10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.cs">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7.Designer.cs">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form8.Designer.cs">
+      <DependentUpon>Form8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form9.Designer.cs">
+      <DependentUpon>Form9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notebook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notebook.Designer.cs">
+      <DependentUpon>Notebook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HP.Designer.cs">
+      <DependentUpon>HP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lenovo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lenovo.Designer.cs">
+      <DependentUpon>Lenovo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NOTEBOOKDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NOTEBOOKDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="notebookDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>notebookDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="notebookDataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>notebookDataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NOTEBOOKDataSet12.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NOTEBOOKDataSet12.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="notebookDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>notebookDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="notebookDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>notebookDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="OC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OC.Designer.cs">
+      <DependentUpon>OC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Samsung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Samsung.Designer.cs">
+      <DependentUpon>Samsung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sony.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sony.Designer.cs">
+      <DependentUpon>Sony.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Администратор.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Администратор.Designer.cs">
+      <DependentUpon>Администратор.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Выбор ноутбука.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Выбор ноутбука.Designer.cs">
+      <DependentUpon>Выбор ноутбука.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Выбор по назначению.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Выбор по назначению.Designer.cs">
+      <DependentUpon>Выбор по назначению.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Выбор по характеристикам.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Выбор по характеристикам.Designer.cs">
+      <DependentUpon>Выбор по характеристикам.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Диск.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Диск.Designer.cs">
+      <DependentUpon>Диск.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Дюймы.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Дюймы.Designer.cs">
+      <DependentUpon>Дюймы.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Объем жесткий диск.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Объем жесткий диск.Designer.cs">
+      <DependentUpon>Объем жесткий диск.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Объем оперативная память.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Объем оперативная память.Designer.cs">
+      <DependentUpon>Объем оперативная память.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Описание.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Описание.Designer.cs">
+      <DependentUpon>Описание.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Процессор.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Процессор.Designer.cs">
+      <DependentUpon>Процессор.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Фирма.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Фирма.Designer.cs">
+      <DependentUpon>Фирма.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Цель.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Цель.Designer.cs">
+      <DependentUpon>Цель.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Цена.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Цена.Designer.cs">
+      <DependentUpon>Цена.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Acer.resx">
+      <DependentUpon>Acer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin2.resx">
+      <DependentUpon>admin2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apple.resx">
+      <DependentUpon>Apple.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Asus.resx">
+      <DependentUpon>Asus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bluetooth.resx">
+      <DependentUpon>Bluetooth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit_ntbk.resx">
+      <DependentUpon>Edit_ntbk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form10.resx">
+      <DependentUpon>Form10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7.resx">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form8.resx">
+      <DependentUpon>Form8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form9.resx">
+      <DependentUpon>Form9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HP.resx">
+      <DependentUpon>HP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lenovo.resx">
+      <DependentUpon>Lenovo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notebook.resx">
+      <DependentUpon>Notebook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OC.resx">
+      <DependentUpon>OC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Samsung.resx">
+      <DependentUpon>Samsung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sony.resx">
+      <DependentUpon>Sony.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Администратор.resx">
+      <DependentUpon>Администратор.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Выбор ноутбука.resx">
+      <DependentUpon>Выбор ноутбука.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Выбор по назначению.resx">
+      <DependentUpon>Выбор по назначению.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Выбор по характеристикам.resx">
+      <DependentUpon>Выбор по характеристикам.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Диск.resx">
+      <DependentUpon>Диск.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Дюймы.resx">
+      <DependentUpon>Дюймы.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Объем жесткий диск.resx">
+      <DependentUpon>Объем жесткий диск.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Объем оперативная память.resx">
+      <DependentUpon>Объем оперативная память.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Описание.resx">
+      <DependentUpon>Описание.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Процессор.resx">
+      <DependentUpon>Процессор.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Фирма.resx">
+      <DependentUpon>Фирма.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Цель.resx">
+      <DependentUpon>Цель.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Цена.resx">
+      <DependentUpon>Цена.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="NOTEBOOKDataSet.xsc">
+      <DependentUpon>NOTEBOOKDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="NOTEBOOKDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NOTEBOOKDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NOTEBOOKDataSet.xss">
+      <DependentUpon>NOTEBOOKDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="notebookDataSet1.xsc">
+      <DependentUpon>notebookDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="notebookDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>notebookDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="notebookDataSet1.xss">
+      <DependentUpon>notebookDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="notebookDataSet11.xsc">
+      <DependentUpon>notebookDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="notebookDataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>notebookDataSet11.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="notebookDataSet11.xss">
+      <DependentUpon>notebookDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="NOTEBOOKDataSet12.xsc">
+      <DependentUpon>NOTEBOOKDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="NOTEBOOKDataSet12.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>NOTEBOOKDataSet12.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="NOTEBOOKDataSet12.xss">
+      <DependentUpon>NOTEBOOKDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="notebookDataSet2.xsc">
+      <DependentUpon>notebookDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="notebookDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>notebookDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="notebookDataSet2.xss">
+      <DependentUpon>notebookDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="notebookDataSet3.xsc">
+      <DependentUpon>notebookDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="notebookDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>notebookDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="notebookDataSet3.xss">
+      <DependentUpon>notebookDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apple.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apple1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1486505375-files-folder-search-magnifying-glass-file-search-magnifier-storage_81440.ico" />
+    <Content Include="computer_laptop.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

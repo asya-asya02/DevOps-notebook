@@ -1,0 +1,555 @@
+C:\Users\User\Desktop\оки\интелектуальные информационные данные\проект\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe.config
+C:\Users\User\Desktop\оки\интелектуальные информационные данные\проект\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe
+C:\Users\User\Desktop\оки\интелектуальные информационные данные\проект\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.pdb
+C:\Users\User\Desktop\оки\интелектуальные информационные данные\проект\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\оки\интелектуальные информационные данные\проект\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form1.resources
+C:\Users\User\Desktop\оки\интелектуальные информационные данные\проект\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Properties.Resources.resources
+C:\Users\User\Desktop\оки\интелектуальные информационные данные\проект\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Выбор_по_характеристикам.resources
+C:\Users\User\Desktop\оки\интелектуальные информационные данные\проект\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\оки\интелектуальные информационные данные\проект\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.exe
+C:\Users\User\Desktop\оки\интелектуальные информационные данные\проект\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.pdb
+C:\Users\User\Desktop\оки\интелектуальные информационные данные\проект\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Выбор_по_назначению.resources
+C:\Users\User\Desktop\оки\интелектуальные информационные данные\проект\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Описание.resources
+C:\Users\User\Desktop\оки\интелектуальные информационные данные\проект\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Особый_поиск.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe.config
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csprojResolveAssemblyReference.cache
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form1.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Properties.Resources.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Выбор_по_характеристикам.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csproj.GenerateResource.Cache
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Naznachen.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Osobiy.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Opisanie.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Password.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proizvodit.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proc.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Operativ.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.hdd.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Disk.resources
+C:\ORUNBEK\Vybor noutbuka1\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe.config
+C:\ORUNBEK\Vybor noutbuka1\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka1\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka1\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka1\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka1\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Password.resources
+C:\ORUNBEK\Vybor noutbuka1\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form1.resources
+C:\ORUNBEK\Vybor noutbuka1\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Properties.Resources.resources
+C:\ORUNBEK\Vybor noutbuka1\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Naznachen.resources
+C:\ORUNBEK\Vybor noutbuka1\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Выбор_по_характеристикам.resources
+C:\ORUNBEK\Vybor noutbuka1\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Disk.resources
+C:\ORUNBEK\Vybor noutbuka1\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.hdd.resources
+C:\ORUNBEK\Vybor noutbuka1\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Operativ.resources
+C:\ORUNBEK\Vybor noutbuka1\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Opisanie.resources
+C:\ORUNBEK\Vybor noutbuka1\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Osobiy.resources
+C:\ORUNBEK\Vybor noutbuka1\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proc.resources
+C:\ORUNBEK\Vybor noutbuka1\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proizvodit.resources
+C:\ORUNBEK\Vybor noutbuka1\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csproj.GenerateResource.Cache
+C:\ORUNBEK\Vybor noutbuka1\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csprojResolveAssemblyReference.cache
+C:\ORUNBEK\Vybor noutbuka2\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe.config
+C:\ORUNBEK\Vybor noutbuka2\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka2\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka2\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka2\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka2\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Password.resources
+C:\ORUNBEK\Vybor noutbuka2\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form1.resources
+C:\ORUNBEK\Vybor noutbuka2\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Properties.Resources.resources
+C:\ORUNBEK\Vybor noutbuka2\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Naznachen.resources
+C:\ORUNBEK\Vybor noutbuka2\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Выбор_по_характеристикам.resources
+C:\ORUNBEK\Vybor noutbuka2\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Disk.resources
+C:\ORUNBEK\Vybor noutbuka2\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.hdd.resources
+C:\ORUNBEK\Vybor noutbuka2\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Operativ.resources
+C:\ORUNBEK\Vybor noutbuka2\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Opisanie.resources
+C:\ORUNBEK\Vybor noutbuka2\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Osobiy.resources
+C:\ORUNBEK\Vybor noutbuka2\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proc.resources
+C:\ORUNBEK\Vybor noutbuka2\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proizvodit.resources
+C:\ORUNBEK\Vybor noutbuka2\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csproj.GenerateResource.Cache
+C:\ORUNBEK\Vybor noutbuka2\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цена.resources
+C:\ORUNBEK\Vybor noutbuka2\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цель.resources
+C:\ORUNBEK\Vybor noutbuka2\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Дюймы.resources
+C:\ORUNBEK\Vybor noutbuka2\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.OC.resources
+C:\ORUNBEK\Vybor noutbuka2\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Bluetooth.resources
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe.config
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Bluetooth.resources
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.OC.resources
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Password.resources
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form1.resources
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Properties.Resources.resources
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Naznachen.resources
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Выбор_по_характеристикам.resources
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Disk.resources
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Дюймы.resources
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.hdd.resources
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Operativ.resources
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Opisanie.resources
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Osobiy.resources
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proc.resources
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proizvodit.resources
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цель.resources
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цена.resources
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csproj.GenerateResource.Cache
+C:\ORUNBEK\Vybor noutbuka3\Vybor noutbuka3\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csprojResolveAssemblyReference.cache
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe.config
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csprojResolveAssemblyReference.cache
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Bluetooth.resources
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.OC.resources
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Password.resources
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form1.resources
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Properties.Resources.resources
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Naznachen.resources
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Выбор_по_характеристикам.resources
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Disk.resources
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Дюймы.resources
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.hdd.resources
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Operativ.resources
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Opisanie.resources
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Osobiy.resources
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proc.resources
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proizvodit.resources
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цель.resources
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цена.resources
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csproj.GenerateResource.Cache
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka4\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe.config
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csprojResolveAssemblyReference.cache
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Bluetooth.resources
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.OC.resources
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Password.resources
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form1.resources
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Properties.Resources.resources
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Naznachen.resources
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Выбор_по_характеристикам.resources
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Disk.resources
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Дюймы.resources
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.hdd.resources
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Operativ.resources
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Opisanie.resources
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Osobiy.resources
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proc.resources
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proizvodit.resources
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цель.resources
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цена.resources
+C:\ORUNBEK\Vybor noutbuka5\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csproj.GenerateResource.Cache
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe.config
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Acer.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Apple.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Asus.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Bluetooth.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.HP.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Lenovo.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.OC.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Samsung.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Sony.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Password.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form1.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Properties.Resources.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Naznachen.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Выбор_по_характеристикам.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Disk.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Дюймы.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.hdd.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Operativ.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Opisanie.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Osobiy.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proc.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proizvodit.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цель.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цена.resources
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csproj.GenerateResource.Cache
+C:\ORUNBEK\Vybor noutbuka6\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Notebook.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe.config
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Acer.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Apple.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Asus.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Bluetooth.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.HP.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Lenovo.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Notebook.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.OC.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Samsung.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Sony.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Password.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form1.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Properties.Resources.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Naznachen.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Выбор_по_характеристикам.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Disk.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Дюймы.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.hdd.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Operativ.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Opisanie.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Osobiy.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proc.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proizvodit.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цель.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цена.resources
+C:\ORUNBEK\Vybor noutbuka9\Vybor noutbuka9\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csproj.GenerateResource.Cache
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe.config
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Acer.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Apple.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Asus.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Bluetooth.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.HP.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Lenovo.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Notebook.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.OC.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Samsung.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Sony.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Password.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form1.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Properties.Resources.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Naznachen.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Выбор_по_характеристикам.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Disk.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Дюймы.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.hdd.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Operativ.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Opisanie.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Osobiy.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proc.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proizvodit.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цель.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цена.resources
+C:\ORUNBEK\Vybor noutbuka10\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csproj.GenerateResource.Cache
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe.config
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Acer.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Apple.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Asus.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Bluetooth.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.HP.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Lenovo.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Notebook.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.OC.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Samsung.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Sony.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Password.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form1.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Properties.Resources.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Naznachen.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Выбор_по_характеристикам.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Disk.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Дюймы.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.hdd.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Operativ.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Opisanie.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Osobiy.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proc.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proizvodit.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цель.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цена.resources
+C:\ORUNBEK\Vybor noutbuka11\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csproj.GenerateResource.Cache
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe.config
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csprojResolveAssemblyReference.cache
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Acer.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Apple.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Asus.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Bluetooth.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.HP.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Lenovo.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Notebook.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.OC.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Samsung.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Sony.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Password.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form1.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Properties.Resources.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Naznachen.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Выбор_по_характеристикам.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Disk.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Дюймы.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.hdd.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Operativ.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Opisanie.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Osobiy.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proc.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proizvodit.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цель.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цена.resources
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csproj.GenerateResource.Cache
+C:\ORUNBEK\Vybor noutbuka12\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Edit_ntbk.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe.config
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csprojResolveAssemblyReference.cache
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Acer.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Apple.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Asus.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Bluetooth.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Edit_ntbk.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.HP.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Lenovo.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Notebook.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.OC.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Samsung.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Sony.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Password.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form1.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Properties.Resources.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Naznachen.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Выбор_по_характеристикам.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Disk.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Дюймы.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.hdd.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Operativ.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Opisanie.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Osobiy.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proc.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proizvodit.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цель.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цена.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csproj.GenerateResource.Cache
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.admin2.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe.config
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Acer.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.admin2.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Apple.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Asus.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Bluetooth.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Edit_ntbk.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.add.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.HP.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Lenovo.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Notebook.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.OC.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Samsung.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Sony.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Password.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form1.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Properties.Resources.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Naznachen.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Выбор_по_характеристикам.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Disk.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Дюймы.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.hdd.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Operativ.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Opisanie.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Osobiy.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proc.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proizvodit.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цель.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цена.resources
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csproj.GenerateResource.Cache
+C:\ORUNBEK\Vybor noutbuka14\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.editor.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe.config
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Acer.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.admin2.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Apple.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Asus.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Bluetooth.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Edit_ntbk.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.add.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.editor.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.HP.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Lenovo.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Notebook.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.OC.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Samsung.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Sony.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Password.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form1.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Properties.Resources.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Naznachen.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Выбор_по_характеристикам.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Disk.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Дюймы.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.hdd.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Operativ.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Opisanie.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Osobiy.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proc.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proizvodit.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цель.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цена.resources
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csproj.GenerateResource.Cache
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka15\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csprojResolveAssemblyReference.cache
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe.config
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Acer.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.admin2.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Apple.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Asus.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Bluetooth.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Edit_ntbk.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.HP.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Lenovo.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Notebook.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.OC.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Samsung.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Sony.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Password.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Properties.Resources.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Naznachen.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Выбор_по_характеристикам.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Disk.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Дюймы.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.hdd.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Operativ.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Opisanie.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proc.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proizvodit.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цель.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цена.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csproj.GenerateResource.Cache
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.edit_s.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe.config
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Acer.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.admin2.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Apple.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Asus.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Bluetooth.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Edit_ntbk.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.edit_s.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.HP.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Lenovo.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Notebook.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.OC.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Samsung.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Sony.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Password.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form1.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Properties.Resources.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Naznachen.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Выбор_по_характеристикам.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Disk.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Дюймы.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.hdd.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Operativ.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Opisanie.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proc.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proizvodit.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цель.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цена.resources
+C:\ORUNBEK\21\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csproj.GenerateResource.Cache
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form2.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe.config
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\bin\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Acer.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.admin2.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Apple.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Asus.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Bluetooth.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Edit_ntbk.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form2.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.edit_s.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.HP.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Lenovo.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Notebook.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.OC.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Samsung.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Sony.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Password.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Properties.Resources.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Naznachen.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Выбор_по_характеристикам.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Disk.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Дюймы.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.hdd.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Operativ.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Opisanie.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proc.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proizvodit.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цель.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цена.resources
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csproj.GenerateResource.Cache
+C:\ORUNBEK\28\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form1.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form1.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form3.resources
+C:\ORUNBEK\Vybor noutbuka\Vybor noutbuka\obj\Debug\Vybor noutbuka.csprojResolveAssemblyReference.cache
+C:\ORUNBEK\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe.config
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Acer.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.admin2.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Apple.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Asus.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Bluetooth.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Edit_ntbk.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form2.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form3.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.edit_s.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.HP.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Lenovo.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Notebook.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.OC.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Samsung.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Sony.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Password.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form1.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Properties.Resources.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Naznachen.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Выбор_по_характеристикам.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Disk.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Дюймы.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.hdd.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Operativ.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Opisanie.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proc.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Proizvodit.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цель.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Цена.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor noutbuka.csproj.GenerateResource.Cache
+C:\ORUNBEK\Vybor noutbuka\bin\Debug\Vybor noutbuka.exe
+C:\ORUNBEK\Vybor noutbuka\bin\Debug\Vybor noutbuka.pdb
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form5.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form7.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form6.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form8.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form9.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor_noutbuka.Form10.resources
+C:\ORUNBEK\Vybor noutbuka\obj\Debug\Vybor noutbuka.csprojResolveAssemblyReference.cache
+C:\Users\asya_\Downloads\Telegram Desktop\Vybor noutbuka\obj\Debug\Vybor noutbuka.exe
+C:\Users\asya_\Downloads\Telegram Desktop\Vybor noutbuka\obj\Debug\Vybor noutbuka.pdb
